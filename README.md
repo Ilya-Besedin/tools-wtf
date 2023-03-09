@@ -1,3 +1,3 @@
 # tools-
 
-copy: winget install --id=SublimeHQ.SublimeText.4  -e
+winget install --id=Insecure.Nmap  -e

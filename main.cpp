@@ -2,10 +2,7 @@
 #include <vector>
 #include <fstream>
 using namespace std;
-/*
-#define m = 80;
-#define b = 50;
-*/
+
 int main()
 {
     long long n;
